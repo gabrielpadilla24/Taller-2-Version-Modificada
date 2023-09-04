@@ -1,0 +1,9 @@
+Factura Pedido: 1
+Cliente: Gabriel
+Dirección: ML#
+Productos:
+corral (ajustado) - $15000
+Combo: combo corral - $17550
+agua cristal sin gas - $5000
+Total Calorías: 1790
+Total: $44684
